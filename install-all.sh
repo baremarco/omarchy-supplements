@@ -5,3 +5,4 @@
 ./install-tldr.sh
 ./install-keepass.sh
 ./install-tree.sh
+./install-tradingview.sh
